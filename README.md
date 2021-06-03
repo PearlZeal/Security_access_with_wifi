@@ -1,6 +1,6 @@
 # Security_access_with_wifi
 
-* Ckeck if the RFID a user has has authorized access to operate the door.
+* Check if the RFID a user has has authorized access to operate the door.
 * If yes...
   -Ask the user to input either of the 3 commands:
     O for Open Door.
